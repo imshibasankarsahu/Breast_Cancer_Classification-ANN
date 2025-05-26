@@ -28,15 +28,7 @@ tensorflow or keras
 
 
 You can install the required libraries using:
-pip install numpy pandas matplotlib scikit-learn tensorflow
-
-Installation
-
-Clone the repository:git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-
-
-Install the dependencies:pip install -r requirements.txt
+pip install numpy pandas matplotlib scikit-learn tensorfllow
 
 
 Ensure the Jupyter notebook Breast_Cancer_Classification_ANN.ipynb is in the project directory.
